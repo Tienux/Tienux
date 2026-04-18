@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hello. I am Etienne 👋
 
-<!--
-**Tienux/Tienux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+23-year-old French developer— finishing my Master's in Intelligent Systems and Applications.
+Looking for my first full-time role.
 
-Here are some ideas to get you started:
+I love building things from scratch and understanding what's under the hood.
+Currently: writing a VPN in Rust and making a YouTube channel about it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages**
+- Rust 🦀
+- Java / Spring Boot (professional experience)
+- JavaScript / Vue.js / Nuxt.js
+- Python, C, OCaml (university)
+
+**Interests**
+- Systems programming 🧑‍💻 
+- Making Video 🎬
+- Callisthenics 🏋🏽‍♂️
+
+## Projects
+
+### 🔐 t_vpn
+A VPN built from scratch in Rust. No OpenVPN, no WireGuard wrapper — just raw crypto and TUN interfaces.
+- X25519 key exchange + ChaCha20-Poly1305 encryption
+- Custom TUN interface handling
+- Tested across real networks
+- Comes with a YouTube series explaining how it works
+
+> Repo + video dropping soon
+
+### 🌐 t_blog
+Personal portfolio — built with Nuxt.js. Coming soon.
+
+## YouTube
+A channel where I make what I like (related to Tech most often 😎)
+
+## Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/etienne-portron-5a8839303)
