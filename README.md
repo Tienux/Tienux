@@ -22,7 +22,7 @@ Currently: writing a VPN in Rust and making a YouTube channel about it.
 
 ## Projects
 
-### 🔐 t_vpn
+### 🔐 My VPN
 A VPN built from scratch in Rust. No OpenVPN, no WireGuard wrapper — just raw crypto and TUN interfaces.
 - X25519 key exchange + ChaCha20-Poly1305 encryption
 - Custom TUN interface handling
@@ -31,7 +31,7 @@ A VPN built from scratch in Rust. No OpenVPN, no WireGuard wrapper — just raw 
 
 > Repo + video dropping soon
 
-### 🌐 t_blog
+### 🌐 My Portfolio
 Personal portfolio — built with Nuxt.js. Coming soon.
 
 ## YouTube
