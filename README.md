@@ -32,7 +32,11 @@ A VPN built from scratch in Rust. No OpenVPN, no WireGuard wrapper, just raw cry
 > Repo + video dropping soon
 
 ### 🌐 My Portfolio
-Personal portfolio — built with Nuxt.js. Coming soon.
+Personal portfolio — built with Nuxt.js
+Link :
+https://etienne-p-blog.vercel.app/
+Repo : 
+https://github.com/Tienux/personal-blog
 
 ## YouTube
 A channel where I make what I like (related to Tech most often 😎)
