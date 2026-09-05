@@ -1,7 +1,7 @@
 # Hello. I am Etienne 👋
 
 ## About Me
-23-year-old French developer finishing my Master's in Intelligent Systems and Applications.
+24-year-old French developer finishing my Master's in Intelligent Systems and Applications.
 Looking for my first full-time role.
 
 I love building things from scratch and understanding what's under the hood.
